@@ -15,7 +15,7 @@
 }
 
 #change-bg-color{
-    color: brown;
+    color: rgb(114, 165, 42);
     margin-top: 3%;
 }
 
@@ -26,6 +26,13 @@
     height: 300px;
     width: 300px;
 
+}
+
+img{
+    position: absolute;
+    width: 15%;
+    top: 80%;
+    right: 25%;
 }
 
 
