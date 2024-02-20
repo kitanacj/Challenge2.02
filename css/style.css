@@ -34,3 +34,17 @@
 #cat-img{
     border: 3px dashed yellow;
 }
+
+#secret-text{
+    position: absolute;
+    top: 80%;
+    left: 25%;
+
+}
+
+
+
+@keyframes sliding {
+    
+    
+}
